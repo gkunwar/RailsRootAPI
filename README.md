@@ -1,7 +1,8 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RailsRootAPI(RRA) is a Rails API only application in which following basics fundamental elements are configured.
+- Testing environement (Rspec)
+- API documentation generator (Rspec API documentation)
+- Basic token authentication
 
 Things you may want to cover:
 
