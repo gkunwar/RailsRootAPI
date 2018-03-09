@@ -1,25 +1,41 @@
-# README
+RailsRootAPI Introduction
+============================
 RailsRootAPI(RRA) is a Rails API only application in which following basics fundamental elements are configured.
 - Testing environement (Rspec)
 - API documentation generator (Rspec API documentation)
 - Basic token authentication
 
-Things you may want to cover:
+Project Setup
+============================
 
-* Ruby version
+Ruby version
+============================
 
-* System dependencies
 
-* Configuration
+System dependencies
+============================
 
-* Database creation
+Configuration
+============================
 
-* Database initialization
+Database creation
+============================
 
-* How to run the test suite
+Database initialization
+============================
 
-* Services (job queues, cache servers, search engines, etc.)
+How to run the test suite
+============================
 
-* Deployment instructions
+Services (job queues, cache servers, search engines, etc.)
+============================
 
-* ...
+Deployment instructions
+============================
+
+Contributing
+============================
+- Clone the codebase 
+- Create feature branch
+- Push codebase to your feature branch
+- Create pull request
