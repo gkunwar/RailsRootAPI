@@ -27,6 +27,10 @@ Database initialization
 How to run the test suite
 ------------------------
 
+Generate API documentation
+------------------------
+- rake docs:generate
+
 Services (job queues, cache servers, search engines, etc.)
 ------------------------
 
