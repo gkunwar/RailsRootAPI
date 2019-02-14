@@ -10,6 +10,7 @@ Project Setup
 
 Ruby version
 ------------------------
+2.4.0
 
 
 System dependencies
